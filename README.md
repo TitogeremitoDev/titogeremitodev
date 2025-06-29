@@ -48,9 +48,16 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitogeremitoDev&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=TitogeremitoDev&style=flat-square&color=blue" alt="visitas perfil"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TitogeremitoDev&theme=react-dark&area=true&hide_border=true" />
+</p>
 ---
 
 ### 🌐 Conecta conmigo
