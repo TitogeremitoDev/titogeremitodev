@@ -61,6 +61,15 @@
 
 ---
 
-<p align="center">
-  Gracias por pasarte por aquí 💛 ¡Sigue creando, compartiendo y creciendo!
-</p>
+<table width="100%" border='0'>
+  <tr>
+    <td>
+      <p align="center">
+        Gracias por pasarte por aquí 💛 ¡Sigue creando, compartiendo y creciendo!
+      </p>
+    </td>
+    <td align="right" width="100">
+      <img src="https://titogeremito.com/wp-content/uploads/2025/04/cropped-LogoCentradoComprimido.jpg" width="80" alt="Logo TitoGeremito">
+    </td>
+  </tr>
+</table>
